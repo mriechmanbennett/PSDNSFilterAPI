@@ -21,16 +21,16 @@ CompatiblePSEditions = 'Desktop', 'Core'
 GUID = '36371015-91f8-424e-92e4-6545026ec2d4'
 
 # Author of this module
-Author = 'Unknown'
+Author = 'Matt Riechman-Bennett'
 
 # Company or vendor of this module
-CompanyName = 'Company name'
+# CompanyName = 'Company name'
 
 # Copyright statement for this module
-Copyright = '(c) Unknown. All rights reserved.'
+Copyright = '(c) Matt Riechman-Bennett. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'New module'
+Description = 'Manage DNSFilter API'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
